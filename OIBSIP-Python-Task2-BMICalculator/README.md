@@ -37,4 +37,4 @@ The main purpose of this project was to strengthen my understanding of **Python 
 
 **Organization:** Oasis Infobyte
 **Track:** Python Programming
-**Project:** BMI Calculator(Beginner)
+**Project:** BMI Calculator (Begginer)
