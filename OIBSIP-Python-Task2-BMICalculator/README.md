@@ -1,4 +1,4 @@
-# BMI Calculator (GUI Application)
+# BMI Calculator (GUI Application Begginer)
 
 ## Project Description
 
