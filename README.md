@@ -4,7 +4,7 @@
 
 This repository contains the projects I completed as part of my **Python Programming Internship at Oasis Infobyte**.
 
-The purpose of this repository is to document my internship work and showcase the practical projects I developed while strengthening my programming and problem-solving skills.
+The purpose of this repository is to document my internship work and showcase the practical projects I developed while strengthening my programming and problem solving skills.
 
 ## Projects
 
