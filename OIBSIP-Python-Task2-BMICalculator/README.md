@@ -1,16 +1,40 @@
-# BMI Calculator (GUI App)
+# BMI Calculator (GUI Application)
 
 ## Project Description
 
-This is a desktop-based BMI (Body Mass Index) Calculator application built using Python and the Tkinter library for a graphical user interface (GUI). It allows users to calculate their BMI based on weight and height inputs and provides colour-coded results.
+This is a **desktop-based BMI (Body Mass Index) Calculator** developed using **Python and Tkinter**.
+
+The application provides a graphical user interface where users can enter their weight and height to calculate their BMI in real time. It also provides colour-coded feedback based on the calculated BMI category and includes input validation to handle invalid entries.
+
+This project was developed as part of my **Python Programming internship at Oasis Infobyte**.
 
 ## Features
 
-- Real-time BMI Calculation
-- Colour-coded feedback (Green for Normal, Red for Underweight/Overweight/Obese)
-- Input validation (Handles text inputs and negative numbers)
+* **Real-Time BMI Calculation** — Calculates BMI instantly based on the entered height and weight.
+* **Interactive GUI** — Provides a simple and user-friendly graphical interface using Tkinter.
+* **Colour-Coded Feedback** — Displays different colours for BMI categories such as Normal, Underweight, Overweight, and Obese.
+* **Input Validation** — Handles invalid text inputs and negative values to prevent incorrect calculations.
 
-## Tech Stack
+## Technologies Used
 
-- Python 3
-- Tkinter (GUI library)
+* **Python 3**
+* **Tkinter** — Python's standard GUI library
+
+## How It Works
+
+1. The user enters their weight.
+2. The user enters their height.
+3. The application validates the entered values.
+4. BMI is calculated using the provided inputs.
+5. The result is displayed along with the corresponding BMI category.
+6. Colour-coded feedback helps the user quickly understand the result.
+
+## Project Purpose
+
+The main purpose of this project was to strengthen my understanding of **Python programming, GUI development, input validation, and application logic** by building a functional desktop application.
+
+## Internship
+
+**Organization:** Oasis Infobyte
+**Track:** Python Programming
+**Project:** BMI Calculator(Beginner)
