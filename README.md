@@ -10,7 +10,7 @@ The purpose of this repository is to document my internship work and showcase th
 
 ### 1. BMI Calculator — GUI Application
 
-A desktop-based BMI Calculator developed using Python and Tkinter, featuring real-time calculation, a graphical user interface, colour-coded feedback, and input validation.
+A desktop based BMI Calculator developed using Python and Tkinter, featuring real-time calculation, a graphical user interface, colour-coded feedback, and input validation.
 
 ### 2. Password Generator
 
