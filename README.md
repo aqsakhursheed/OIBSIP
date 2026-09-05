@@ -8,19 +8,15 @@ The purpose of this repository is to document my internship work and showcase th
 
 ## Projects
 
-### 1. BMI Calculator — GUI Application
+### 2. BMI Calculator — GUI Application
 
-<<<<<<< HEAD
-A desktop based BMI Calculator developed using Python and Tkinter, featuring real-time calculation, a graphical user interface, colour-coded feedback, and input validation.
-=======
-A desktop-based BMI Calculator developed using `Python` and `Tkinter`, featuring real-time calculation, a graphical user interface, colour-coded feedback, and input validation.
->>>>>>> 9178f55 (Added Basic Weather App)
+A desktop based BMI Calculator developed using `Python` and `Tkinter`, featuring real-time calculation, a graphical user interface, colour-coded feedback, and input validation.
 
-### 2. Password Generator
+### 3. Password Generator
 
 A customizable password generator developed using `Python's` `random` and `string` modules. The project includes password length validation, character-type selection, random password generation, and input validation.
 
-### 2. Basic Weather App
+### 4. Basic Weather App
 
 A real-time weather application developed using `Python` and the `requests` library to fetch live weather data through an `external API`. The project includes temperature, humidity, weather conditions, wind speed, input validation, and error handling.
 
